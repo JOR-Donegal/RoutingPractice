@@ -8,3 +8,6 @@
   * [Configure the switches](scripting/configure-the-switches.md)
   * [Test a script](scripting/test-a-script.md)
   * [Finally](scripting/finally.md)
+* [LAN Routing](lan-routing/README.md)
+  * [Scenario](lan-routing/scenario.md)
+  * [Build](lan-routing/build.md)
