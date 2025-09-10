@@ -31,7 +31,7 @@ wr mem
 
 Both Router10 and 11 should show Router2 coming up and Router2 should also give a message confirming an adjacency to Routers 10 and 11. My routing tables on Router10 and 11 should show my default route.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Finally we need to add NAT to Router2 so the whole network can see outbound.
 
@@ -46,4 +46,4 @@ int gi0/0
 
 From Router10, I can now ping to my physical home network (my test address is 192.168.5.10, what should yours be?).
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

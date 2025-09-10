@@ -8,11 +8,11 @@ For the exercise in this session, write your commands in Notepad++ and copy & pa
 
 The diagram below meets most of the requirements for a physical network diagram.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 One thing I can assure you of; if you cannot draw the network, you are not ready to start configuring it. Pre-requisites for network design are large sheets of paper, coloured markers, and much coffee! The diagram below meets most of the requirements for a logical network diagram.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Build the network and do a ping test to make sure you have some connectivity. After having previously implemented static routes and RIP, you should know what pings will work and what should not!&#x20;
 

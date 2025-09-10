@@ -52,3 +52,8 @@
     * [Timers](ospf/build/timers.md)
     * [Passive Interfaces](ospf/build/passive-interfaces.md)
   * [Finally](ospf/finally.md)
+* [BGP](bgp/README.md)
+  * [Build](bgp/build.md)
+  * [Configuration](bgp/configuration.md)
+  * [Testing](bgp/testing.md)
+  * [Finally](bgp/finally.md)

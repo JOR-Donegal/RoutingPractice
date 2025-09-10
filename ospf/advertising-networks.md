@@ -6,6 +6,6 @@ As another example, a /30 network has four IP addresses of which 2 are usable; t
 
 Some other examples are shown below.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 The inverse mask is not intuitive to me, even after all these years!

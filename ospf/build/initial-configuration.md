@@ -81,16 +81,16 @@ wr mem
 
 The router will immediately identify that they have become neighbours and indicate on which interfaces. For example, on Router11;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 To verify try the command **show ip ospf neighbor** and check the output. On Router10;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 I can see Router11 via two different routes. If at any stage you need to restart the OSPF process, try the command **clear ip ospf process**
 
 The command **show ip protocols** will show the overall status of routing protocols and the router ID. On Router11:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 There is a lot of useful information here, run through and make sure you understand it all!

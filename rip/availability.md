@@ -19,13 +19,13 @@ Link1 could be a broadband wireless link from E-Net and Link2 could be a dial-up
 
 The overall availability (_A_) is equal to _A1\*A2_, or in this case 99\*99.9=98.901%
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 The overall link is less reliable than either of its components, as both components must be operating for the link to work.
 
 If we have two links in parallel, we <mark style="color:green;">increase</mark> the availability of the overall link.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 The overall availability (_A_) is equal to _1-(1-A1)\*(1-A2)_, or in this case, 1-(1-.99)\*(1-.999)=99.999%
 

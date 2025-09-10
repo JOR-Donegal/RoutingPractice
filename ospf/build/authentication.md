@@ -52,4 +52,4 @@ We do not need to do this on the interfaces which do not go to another router. A
 
 We can check on any interface to see that crypto is enabled.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
