@@ -2,7 +2,7 @@
 
 I drag and drop a NAT appliance into my project and connect it to Router1, Gi0/1.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 I need to tell my router to get its IP address via DHCP from the NAT. I configure Gi0/1 as follows.
 
@@ -21,7 +21,7 @@ sh ip route
 
 This will indicate a default route to 0.0.0.0/0
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Add the following lines to Router1 so we can do a DNS lookup.
 

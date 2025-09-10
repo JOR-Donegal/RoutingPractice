@@ -8,6 +8,6 @@ My UB2204 instance has an IP address of 192.168.146.157.
 
 My host instance has an IP address of 192.168.146.1 but also has a physical adapter 192.168.5.21 on my home network. If you cannot draw it, you are not ready to work on it!
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 My starting point: the Ubuntu instance can see the Internet via eth0.

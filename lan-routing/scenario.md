@@ -33,6 +33,6 @@ Our switches are on 192.168.10.21, 22, 23
 
 Our VPCs are 192.168.X.101 and 102, they may move VLANs, we will reserve 101 and 102 for them.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In previous exercises, we built a Layer 2 network and set up port security, loop avoidance, VLANs etc. But we currently have no way to route between VLANs.

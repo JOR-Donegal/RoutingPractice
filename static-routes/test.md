@@ -11,9 +11,9 @@ Verify these tests on your system.
 
 If you try the command **sh ip route** at each router you should be able to figure out why this is the case.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Router1 knows about network 192.168.1.0/24 and 192.168.3.0/24 and can communicate with them.
 

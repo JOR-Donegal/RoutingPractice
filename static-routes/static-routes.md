@@ -20,9 +20,9 @@ You should now be able to ping one PC from the other, although the first two pin
 
 Run the **show ip route** command again. Can you see how the static route is represented?
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is a handy, simple, and fool-proof technique for indicating routes. Can you think of any downside to static routes, in a network with frequent moves and changes?
 

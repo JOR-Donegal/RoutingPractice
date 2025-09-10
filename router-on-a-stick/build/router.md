@@ -2,7 +2,7 @@
 
 I add a router as **Router1** and connect it to **Switch21** as shown. Remember, all my port in range Gi3/0-3 are trunk/tagged ports.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Gi0/0 on the router now needs to be configured to send out tagged packets. We do this by defining sub-interfaces. For example, for VLAN 10 I configure the switch as follows.
 
@@ -47,4 +47,4 @@ If you have done everything correctly, a ping test from PC1 to 10.1.5.1 works an
 3. Connect a test PC to Switch21, Port Gi0/1 (PC2), IP address 10.1.5.102
 4. Do ping tests from PC2 to all the other nodes.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

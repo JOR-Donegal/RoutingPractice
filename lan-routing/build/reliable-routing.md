@@ -6,7 +6,7 @@ However, from a routing perspective, failure of a switch/router may disable rout
 
 The general thing we are trying to configure is referred to as gateway redundancy. This is a standard configuration in just about every enterprise and data centre network. Consider the diagram below, a logical diagram of what we want to achieve to make VLAN5 redundant.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 VLAN 5 uses a single gateway address with the last octet of .20 even though there is no router 20. Each of the actual routers (21, 22, 23) can pretend it is .20 and provide routing services to the subnet. If that router fails, another router will take over.
 

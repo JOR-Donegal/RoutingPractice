@@ -8,4 +8,4 @@ In GNS3, I opened the previous _CDPTest_ project and saved it as _Scripting_.&#x
 
 I started all the appliances.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
