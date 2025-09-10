@@ -11,11 +11,11 @@ Some questions…
 
 For the number of links in a full mesh network, use the formula:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Where N is the number of nodes. In our case, this becomes:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Every router would need a static route to every local LAN and to every WAN subnet to which it was not directly connected. It would be difficult to maintain this network if we used static routes.
 

@@ -2,7 +2,7 @@
 
 I create the network as shown and save as **StaticRoutes**, using generic switches and Cisco IOSv routers.
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I configure VPCS1
 

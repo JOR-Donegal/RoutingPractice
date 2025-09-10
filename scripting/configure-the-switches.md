@@ -27,12 +27,12 @@ telenet 192.168.10.21
 
 You should be able to login using the password you just set. If not go back and retrace your steps.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Note the prompt is "Password". You will need to know this later!
 
 If I want to get to privileged mode, I get another password prompt which I must respond to.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Working!

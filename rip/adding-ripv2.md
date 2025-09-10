@@ -57,7 +57,7 @@ router rip
 
 Type the command **sh ip route** on each router. Each router should now have a route to every LAN network and you should be able to see which network we missed including! My example is from Router1.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 I can see the other 3 LANs and I see them via their own router gateways.
 

@@ -8,7 +8,7 @@ Link1 could be a broadband wireless link from E-Net and Link2 could be a dial-up
 
 &#x20;Have a look at the link reliability table below for an individual link. The availability figure of a link is normally provided by the carrier and will be part of the SLA for the link.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * A 99% available link is referred to as having two “nines”.
 * A 99.9% available link is referred to as having three “nines”.

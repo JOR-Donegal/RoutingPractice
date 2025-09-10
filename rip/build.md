@@ -4,7 +4,7 @@ In GNS3, open a new project and save it as **RIPv2**.&#x20;
 
 Build as shown, start your devices and open terminal windows to each.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 I will use subnets 192.168.3.0/24 and 192.168.4.0/24, also VPCS 3 and 4 as shown. Which routers you link to which interface is not important but tabulate it! For simplicity, I use a /24 for every link. I a real design, I’d use a /30.
 
