@@ -2,7 +2,7 @@
 
 On each switch, we had configured gi0/1 in the NetMan VLAN. Verify this is the case on Switch21.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Connect the Network Automation container to this port.
 
