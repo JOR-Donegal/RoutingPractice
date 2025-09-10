@@ -17,7 +17,7 @@ On each of your test PCs, change the gateway address to .20 and re-verify connec
 
 I ping all four possible gateways from PC1 and then check the ARP table.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see the physical gateways and fail-over gateway (192.168.5.20) have different MAC addresses. HSRP uses the MAC address 00:00:0C:07:AC:_xx_ where _xx_ is the HSRP group number, in our case 1.
 
@@ -31,7 +31,7 @@ show standby
 
 I get the following result.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The active router is local (21) and 23 is a standby. Check this on each switch, they should agree.
 

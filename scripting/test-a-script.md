@@ -43,6 +43,6 @@ nano telnet1.py
 
 I paste the sample code into this nano session then \[ctrl o] to save, \[ctrl x] to exit. When I test, I verify that I connected and got privilege elevation.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Simple test, but you can build on this.
